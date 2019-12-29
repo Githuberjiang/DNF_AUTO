@@ -13,32 +13,32 @@ def x():
         d += 1
         b = time.time()
         if d % 2 == 1:
-            pyautogui.keyDown("right")
+            pyautogui.hotkey("right")
         else:
-            pyautogui.keyDown("left")
+            pyautogui.hotkey("left")
         for i in range(random.randint(1, 10)):
-            pyautogui.keyDown("x")
+            pyautogui.hotkey("x")
             time.sleep(random.random())
         time.sleep(0.2)
-        pyautogui.keyDown("a")
-        pyautogui.keyDown("space")
+        pyautogui.hotkey("a")
+        pyautogui.hotkey("space")
         c = b - a
         if c > 90:
-            pyautogui.keyDown(",")
-            pyautogui.keyDown(",")
+            pyautogui.hotkey(",")
+            pyautogui.hotkey(",")
             for i in range(15):
-                pyautogui.keyDown("x")
+                pyautogui.hotkey("x")
                 time.sleep(random.random())
 
-            pyautogui.keyDown("f10")
+            pyautogui.hotkey("f10")
             a = time.time()
             print(c)
 
 
 x()
 
-# # time.sleep(2)
-# # b = time.time()
-# # c = b-a
-# print(random.randint(1, 10))
-# print(2 % 2)
+# # # time.sleep(2)a
+# xxxxxxxxaxa  xaxxxxxxxxxxa  xxxxxxxxxxaxxxxxxa  xxxxaxxxxxa  xaxxxxa  xaxxa  xxxxxxxxaxxxxxxxa  xxaxxxa  xxxxaxxxxxxa  xxxxxxxxxaxxxxa  xxxxxxxxxxaxxxxxxa ,,xxxxxxxxxxxxxxx xxaxxa  xxx# # b = time.time()
+# # # c = b-a
+# # print(random.randint(1, 10))
+# x惺惺相惜x惺惺相惜想学习啊啊xxxxxxxaxx # print(2 % 2)
