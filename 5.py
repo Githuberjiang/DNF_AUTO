@@ -14,10 +14,11 @@ def x():
         b = time.time()
         if d % 2 == 1:
             pyautogui.hotkey("right")
+            pyautogui.hotkey()
         else:
             pyautogui.hotkey("left")
         for i in range(random.randint(1, 10)):
-            pyautogui.hotkey("x")
+            pyautogui.typewrite("x")
             time.sleep(random.random())
         time.sleep(0.2)
         pyautogui.hotkey("a")
@@ -31,14 +32,16 @@ def x():
                 time.sleep(random.random())
 
             pyautogui.hotkey("f10")
+            pyautogui.hotkey("f10")
             a = time.time()
             print(c)
 
 
 x()
-
+# xxaxxxxxxxa  xxxxxx
 # # # time.sleep(2)a
-# xxxxxxxxaxa  xaxxxxxxxxxxa  xxxxxxxxxxaxxxxxxa  xxxxaxxxxxa  xaxxxxa  xaxxa  xxxxxxxxaxxxxxxxa  xxaxxxa  xxxxaxxxxxxa  xxxxxxxxxaxxxxa  xxxxxxxxxxaxxxxxxa ,,xxxxxxxxxxxxxxx xxaxxa  xxx# # b = time.time()
+# xxxxxaxxxxxa  xxxxaxxxxxxxxxa xxxxxxxaxxa  xxxxxxxxxaxxxxxxxxxxa  xxxxx xxxxxxaxxa  xxxaxxxxa  xxxxaxxxa  xxxxxxxxxaxxxxxxxxxxa  xxxx# xxxxxxxxaxa  xaxxxxxxxxxxa  xxxxxxxxxxaxxxxxxa  xxxxaxxxxxa  xaxxxxa  xaxxa  xxxxxxxxaxxxxxxxa  xxaxxxa  xxxxaxxxxxxa  xxxxxxxxxaxxxxa  xxxxxxxxxxaxxxxxxa ,,xxxxxxxxxxxxxxx xxaxxa  xxx# # b = time.time()
 # # # c = b-a
-# # print(random.randint(1, 10))
+# # print(random.randint(1, 10))a
 # x惺惺相惜x惺惺相惜想学习啊啊xxxxxxxaxx # print(2 % 2)
+# xxxxaxxxa  xxxxxxxaxa  xxxxxxaxxxxxxxxa  xxxxxxxaxxxxxxxxxa  xaxxxxxxxxxa  xxxxxxxaxxa  xxxaxxxxxxxxa  xxaxxxxxxxxa  xxxxxxxaxxa  xxxxxaxxxxxxxxxa  xxxxxxxxxaxxxxxxxxa  xxxxxaxa ,,xxxxxxxxxxxxxxx xxaxxxxa  xxxxxxaxxxxxx
