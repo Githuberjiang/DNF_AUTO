@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/../Python3教程/Python基础.md" line="201" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="e421f962-06b3-43b5-9a6e-1ca837d91a50" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/8.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auto_GD/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auto_GD/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auto_GD/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auto_GD/auto_GD.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/222.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calc7key.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculator.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/foo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qqq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qqq111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshot2020-0103_16-04-29-740514.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,38 +35,55 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/FORFND$1.coverage" NAME="1 Coverage Results" MODIFIED="1577716411567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FORFND$4.coverage" NAME="4 Coverage Results" MODIFIED="1577583866461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FORFND$7.coverage" NAME="7 Coverage Results" MODIFIED="1578034749714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FORFND$13_12306.coverage" NAME="13.12306模拟登陆 Coverage Results" MODIFIED="1578378718035" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+    <SUITE FILE_PATH="coverage/FORFND$9.coverage" NAME="9 Coverage Results" MODIFIED="1578070646806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FORFND$5.coverage" NAME="5 Coverage Results" MODIFIED="1578015914548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/FORFND$8.coverage" NAME="8 Coverage Results" MODIFIED="1578046214103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FORFND$8.coverage" NAME="8 Coverage Results" MODIFIED="1578071069535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/FORFND$3.coverage" NAME="3 Coverage Results" MODIFIED="1577441028890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/7.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/8.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="61" column="10" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#16#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/auto_GD/auto_GD.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="359">
+                  <caret line="141" column="14" lean-forward="true" selection-start-line="141" selection-start-column="14" selection-end-line="141" selection-end-column="14" />
+                  <folding>
+                    <element signature="e#42#58#0" expanded="true" />
+                    <element signature="e#139#255#0" />
+                    <element signature="e#415#1323#0" />
+                    <element signature="e#1208#2126#0" />
+                    <element signature="e#2179#2510#0" />
+                    <element signature="e#2570#2846#0" />
+                    <element signature="e#2961#3262#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/new/2 简化版.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="76">
+                  <caret line="9" column="35" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="35" />
+                  <folding>
+                    <element signature="e#0#16#0" expanded="true" />
+                    <element signature="e#690#1124#0" />
+                    <element signature="e#1150#2641#0" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -62,14 +98,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/222.py" />
-        <option value="$PROJECT_DIR$/3.py" />
-        <option value="$PROJECT_DIR$/4.py" />
-        <option value="$PROJECT_DIR$/6.py" />
-        <option value="$PROJECT_DIR$/1.py" />
-        <option value="$PROJECT_DIR$/5.py" />
-        <option value="$PROJECT_DIR$/7.py" />
-        <option value="$PROJECT_DIR$/8.py" />
+        <option value="$PROJECT_DIR$/new/2 简化版.py" />
+        <option value="$PROJECT_DIR$/auto_GD/auto_GD.py" />
       </list>
     </option>
   </component>
@@ -80,11 +110,12 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="264" />
-    <option name="y" value="24" />
+    <option name="x" value="87" />
+    <option name="y" value="23" />
     <option name="width" value="1014" />
     <option name="height" value="804" />
   </component>
+  <component name="ProjectId" id="1VvPyDeomBmWDgrX5usiS5s1tSN" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -99,11 +130,26 @@
               <item name="FORFND" type="b2602c69:ProjectViewProjectNode" />
               <item name="FORFND" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="FORFND" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FORFND" type="462c0819:PsiDirectoryNode" />
+              <item name="auto_GD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FORFND" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FORFND" type="462c0819:PsiDirectoryNode" />
+              <item name="new" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
     </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -111,6 +157,15 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/auto_GD" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/auto_GD" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -124,8 +179,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.8">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.13.12306模拟登陆">
+    <configuration name="1 换角色" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FORFND" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,12 +188,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/new" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new/1 换角色.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +202,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FORFND" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,7 +215,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +224,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="FORFND" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,7 +237,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,7 +246,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="13.12306模拟登陆" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FORFND" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -199,12 +254,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Downloads" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Downloads/13.12306模拟登陆.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,7 +268,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="FORFND" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -226,7 +281,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -236,21 +291,33 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1" />
-      <item itemvalue="Python.4" />
-      <item itemvalue="Python.5" />
-      <item itemvalue="Python.7" />
-      <item itemvalue="Python.8" />
+      <item itemvalue="Python.9" />
+      <item itemvalue="Python.11" />
+      <item itemvalue="Python.12" />
+      <item itemvalue="Python.1 换角色" />
+      <item itemvalue="Python.13.12306模拟登陆" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.8" />
-        <item itemvalue="Python.7" />
-        <item itemvalue="Python.5" />
-        <item itemvalue="Python.1" />
-        <item itemvalue="Python.4" />
+        <item itemvalue="Python.13.12306模拟登陆" />
+        <item itemvalue="Python.9" />
+        <item itemvalue="Python.1 换角色" />
+        <item itemvalue="Python.11" />
+        <item itemvalue="Python.12" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -262,34 +329,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577429517031</updated>
-      <workItem from="1578014240825" duration="1281000" />
+      <workItem from="1578014240825" duration="1877000" />
+      <workItem from="1578050427209" duration="1315000" />
+      <workItem from="1578054830834" duration="100000" />
+      <workItem from="1578067657139" duration="3249000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1281000" />
+    <option name="totallyTimeSpent" value="6541000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19170243" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12088698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20817845" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39900866" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32961586" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Coverage" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -303,112 +372,140 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="WindowStateProjectService">
+    <state width="1025" height="174" key="GridCell.Tab.0.bottom" timestamp="1578238369539">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state width="1025" height="174" key="GridCell.Tab.0.bottom/0.23.1920.982@0.23.1920.982" timestamp="1578238369539" />
+    <state width="1025" height="174" key="GridCell.Tab.0.bottom/0.23.1920.984@0.23.1920.984" timestamp="1578216472366" />
+    <state width="1025" height="174" key="GridCell.Tab.0.bottom/0.23.1920.986@0.23.1920.986" timestamp="1578227963465" />
+    <state width="712" height="174" key="GridCell.Tab.0.bottom/0.23.1920.988@0.23.1920.988" timestamp="1578231810226" />
+    <state width="1025" height="174" key="GridCell.Tab.0.center" timestamp="1578238369539">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state width="1025" height="174" key="GridCell.Tab.0.center/0.23.1920.982@0.23.1920.982" timestamp="1578238369539" />
+    <state width="1025" height="174" key="GridCell.Tab.0.center/0.23.1920.984@0.23.1920.984" timestamp="1578216472365" />
+    <state width="1025" height="174" key="GridCell.Tab.0.center/0.23.1920.986@0.23.1920.986" timestamp="1578227963465" />
+    <state width="712" height="174" key="GridCell.Tab.0.center/0.23.1920.988@0.23.1920.988" timestamp="1578231810225" />
+    <state width="1025" height="174" key="GridCell.Tab.0.left" timestamp="1578238369539">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state width="1025" height="174" key="GridCell.Tab.0.left/0.23.1920.982@0.23.1920.982" timestamp="1578238369539" />
+    <state width="1025" height="174" key="GridCell.Tab.0.left/0.23.1920.984@0.23.1920.984" timestamp="1578216472365" />
+    <state width="1025" height="174" key="GridCell.Tab.0.left/0.23.1920.986@0.23.1920.986" timestamp="1578227963463" />
+    <state width="712" height="174" key="GridCell.Tab.0.left/0.23.1920.988@0.23.1920.988" timestamp="1578231810225" />
+    <state width="1025" height="174" key="GridCell.Tab.0.right" timestamp="1578238369539">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state width="1025" height="174" key="GridCell.Tab.0.right/0.23.1920.982@0.23.1920.982" timestamp="1578238369539" />
+    <state width="1025" height="174" key="GridCell.Tab.0.right/0.23.1920.984@0.23.1920.984" timestamp="1578216472365" />
+    <state width="1025" height="174" key="GridCell.Tab.0.right/0.23.1920.986@0.23.1920.986" timestamp="1578227963465" />
+    <state width="712" height="174" key="GridCell.Tab.0.right/0.23.1920.988@0.23.1920.988" timestamp="1578231810226" />
+    <state width="1025" height="304" key="GridCell.Tab.1.bottom" timestamp="1578132785043">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state width="1025" height="304" key="GridCell.Tab.1.bottom/0.23.1920.984@0.23.1920.984" timestamp="1578132785043" />
+    <state width="1025" height="304" key="GridCell.Tab.1.center" timestamp="1578132785043">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state width="1025" height="304" key="GridCell.Tab.1.center/0.23.1920.984@0.23.1920.984" timestamp="1578132785043" />
+    <state width="1025" height="304" key="GridCell.Tab.1.left" timestamp="1578132785042">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state width="1025" height="304" key="GridCell.Tab.1.left/0.23.1920.984@0.23.1920.984" timestamp="1578132785042" />
+    <state width="1025" height="304" key="GridCell.Tab.1.right" timestamp="1578132785043">
+      <screen x="0" y="23" width="1920" height="984" />
+    </state>
+    <state width="1025" height="304" key="GridCell.Tab.1.right/0.23.1920.984@0.23.1920.984" timestamp="1578132785043" />
+    <state x="15" y="154" key="SettingsEditor" timestamp="1578134378627">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state x="15" y="154" key="SettingsEditor/0.23.1920.986@0.23.1920.986" timestamp="1578134378627" />
+    <state x="637" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1578237064996">
+      <screen x="0" y="23" width="1920" height="982" />
+    </state>
+    <state x="637" y="347" key="com.intellij.ide.util.TipDialog/0.23.1920.982@0.23.1920.982" timestamp="1578237064996" />
+    <state x="637" y="348" key="com.intellij.ide.util.TipDialog/0.23.1920.984@0.23.1920.984" timestamp="1578202785754" />
+    <state x="637" y="350" key="com.intellij.ide.util.TipDialog/0.23.1920.989@0.23.1920.989" timestamp="1578130855072" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1578202221006">
+      <screen x="0" y="23" width="1920" height="986" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.23.1920.986@0.23.1920.986" timestamp="1578202221006" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11145">
-          <caret line="751" selection-start-line="751" selection-end-line="751" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#14#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/222.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#0#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1005">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="372">
-          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
-          <folding>
-            <element signature="e#51#67#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1725">
-          <caret line="115" column="22" selection-start-line="115" selection-start-column="22" selection-end-line="115" selection-end-column="22" />
-          <folding>
-            <element signature="e#15#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my_screenshot.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pyautogui/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="90" column="129" selection-start-line="90" selection-start-column="129" selection-end-line="90" selection-end-column="129" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/foo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qqq111.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qqq.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/8.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/9.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="61" column="10" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
+        <state relative-caret-position="-964">
           <folding>
             <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/333.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/444.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/111.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/11.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/13.12306模拟登陆.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="70" lean-forward="true" selection-start-line="4" selection-end-line="5" />
+          <folding>
+            <element signature="e#0#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_GD/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new/444.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new/2 简化版.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+            <element signature="e#690#1124#0" />
+            <element signature="e#1150#2641#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_GD/3.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_GD/1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_GD/2.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/auto_GD/auto_GD.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="141" column="14" lean-forward="true" selection-start-line="141" selection-start-column="14" selection-end-line="141" selection-end-column="14" />
+          <folding>
+            <element signature="e#42#58#0" expanded="true" />
+            <element signature="e#139#255#0" />
+            <element signature="e#415#1323#0" />
+            <element signature="e#1208#2126#0" />
+            <element signature="e#2179#2510#0" />
+            <element signature="e#2570#2846#0" />
+            <element signature="e#2961#3262#0" />
           </folding>
         </state>
       </provider>
