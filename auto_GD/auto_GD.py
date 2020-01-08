@@ -31,20 +31,17 @@ def change_role():
         pyautogui.keyDown('f12')
         pyautogui.keyUp('f12')
         # 在这里加一个灰色的再次挑战的判断
-    while True:
+    for i in range(10):
         pyautogui.keyDown('esc')
         pyautogui.keyUp('esc')
         time.sleep(random.random())
-        for i in range(3):
-            pyautogui.moveTo(888, 666)
-            time.sleep(random.random())
-            pyautogui.moveTo(858, 713)
-            pyautogui.moveTo(858, 713)
-            time.sleep(random.random())
-            pyautogui.doubleClick()
-            pyautogui.mouseDown()
-            pyautogui.mouseUp()
-            time.sleep(random.random())
+        pyautogui.moveTo(858, 713)
+        time.sleep(random.random())
+        pyautogui.doubleClick()
+        pyautogui.mouseDown()
+        pyautogui.mouseUp()
+        pyautogui.keyDown('esc')
+        pyautogui.keyUp('esc')
         xzjs = pyautogui.locateOnScreen('3.png', confidence=0.95)  # 选择角色页面
         time.sleep(1)
         if xzjs:
@@ -52,14 +49,16 @@ def change_role():
     pyautogui.keyDown("right")
     pyautogui.keyUp("right")
     time.sleep(random.random())
-    pyautogui.keyDown('space')
-    pyautogui.keyUp('space')
+    for i in range(3):
+        pyautogui.keyDown('space')
+        pyautogui.keyUp('space')
     time.sleep(3)
     move_to()
 
 
 def move_to():
     pl = pyautogui.locateOnScreen('1.png', confidence=0.97)  # 疲劳值为空的判断
+    time.sleep(1)
     if pl:
         change_role()
     else:
@@ -68,17 +67,16 @@ def move_to():
         pyautogui.keyUp('down')
         pyautogui.keyDown('n')
         pyautogui.keyUp('n')
-        for i in range(3):
-            pyautogui.moveTo(870, 505)
-            pyautogui.click(button="left")
-            pyautogui.moveTo(888, 666)
-            time.sleep(random.random())
+        for i in range(5):
+            pyautogui.moveTo(858, 505)
+            pyautogui.mouseDown()
+            pyautogui.mouseUp()
         time.sleep(6.66)
         pyautogui.keyDown("down")
-        time.sleep(1.33)
+        time.sleep(2)
         pyautogui.keyUp("down")
         pyautogui.keyDown("right")
-        time.sleep(1.33)
+        time.sleep(2)
         pyautogui.keyUp("right")
         time.sleep(1)
         for i in range(5):
@@ -139,6 +137,7 @@ while True:
     t11 = time.time()-t1
     if t11 > 100.0:
         t1 = time.time()
+        vs = pyautogui.locateOnScreen('4.png')
         pljc()
     auto_attack()
 
